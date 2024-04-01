@@ -1,0 +1,20 @@
+.checked{
+    color: blue;
+    text-decoration:line-through;
+    background-color: beige;
+}
+li{
+  padding-top: 10px;  
+  padding-bottom: 10px;  
+  list-style-type: none;
+}
+.close {
+    float: right;
+    text-align: center;
+    padding: 5px 10px;
+  }
+  .close:hover {
+    background-color: #f44336;
+    color: white;
+    cursor: pointer;
+  }
